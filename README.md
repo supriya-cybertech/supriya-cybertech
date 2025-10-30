@@ -64,11 +64,9 @@
 
 ---
 
-### 🏆 Achievements & Badges
+<!-- Markdown -->
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=supriya-cybertech&theme=onedark&no-frame=true&margin-w=10&margin-h=10" />
-</p>
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
 
@@ -88,5 +86,6 @@ If you like my projects or find them helpful, consider starring ⭐ the repos or
 > *“Simplicity is the ultimate sophistication — and clarity is its greatest strength.”*
 
 ---
+
 
 <p align="center">💻 Crafted with passion by <b>Supriya </b> | © 2025</p>
