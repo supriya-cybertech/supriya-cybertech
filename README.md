@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/supriya-kumari15" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Supriya%20Kumari-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Supriya%20Kumari-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://discord.com/users/1405847204475834458" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Supriya%20Cybertech-7289DA?style=for-the-badge&logo=discord" />
@@ -30,23 +30,23 @@
   </a>
 </p>
 
----
+----
 
 ### 🧠 Tech Stack & Tools
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,javascript,typescript,php,kotlin" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,javascript,typescript,php,kotlin"/>
   <!-- Web Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,angular,bootstrap,tailwind,flask,spring" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,angular,bootstrap,tailwind,flask,spring"/>
   <!-- AI/ML Tools -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,seaborn" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,seaborn"/>
   <!-- Cloud / DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,dotnet,kubernetes,kafka,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,dotnet,kubernetes,kafka,firebase,git"/>
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle,mongodb,mssql" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle,mongodb,mssql"/>
   <!-- Others -->
-  <img src="https://skillicons.dev/icons?i=linux,arduino,blender,html,css,illustrator" />
+  <img src="https://skillicons.dev/icons?i=linux,arduino,blender,html,css,illustrator"/>
 </p>
 
 ---
