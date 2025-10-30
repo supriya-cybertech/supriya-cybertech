@@ -36,15 +36,15 @@
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,javascript,typescript,php,kotlin" /><br>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,javascript,typescript,php,kotlin" />
   <!-- Web Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,angular,bootstrap,tailwind,flask,spring" /><br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,angular,bootstrap,tailwind,flask,spring" />
   <!-- AI/ML Tools -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,seaborn" /><br>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,seaborn" />
   <!-- Cloud / DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,dotnet,kubernetes,kafka,firebase,git" /><br>
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,dotnet,kubernetes,kafka,firebase,git" />
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle,mongodb,mssql" /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle,mongodb,mssql" />
   <!-- Others -->
   <img src="https://skillicons.dev/icons?i=linux,arduino,blender,html,css,illustrator" />
 </p>
