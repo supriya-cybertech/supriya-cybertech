@@ -16,22 +16,6 @@
 
 ---
 
-### 🤝 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/supriya-kumari15" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Supriya%20Kumari-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://discord.com/users/1405847204475834458" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Supriya%20Cybertech-7289DA?style=for-the-badge&logo=discord" />
-  </a>
-  <a href="mailto:i.am.supriya15@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me%20Here-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
-----
-
 ### 🧠 Tech Stack & Tools
 
 <p align="center">
@@ -69,6 +53,23 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ---
+
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/supriya-kumari15" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Supriya%20Kumari-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://discord.com/users/1405847204475834458" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Supriya%20Cybertech-7289DA?style=for-the-badge&logo=discord" />
+  </a>
+  <a href="mailto:i.am.supriya15@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me%20Here-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+----
 
 ### ☕ Support My Work
 
