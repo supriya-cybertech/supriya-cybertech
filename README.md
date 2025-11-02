@@ -8,7 +8,6 @@
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working on **my Personal Portfolio Website**  
 - 👯 I’m open to collaboration on **Machine Learning & Cybersecurity Projects**  
 - 💬 Ask me about **System Design Concepts**, **Solution Architecture**, **AI-driven Applications**, or **Cybersecurity & Generative AI**  
 - 📫 Reach me at: **[i.am.supriya15@gmail.com](mailto:i.am.supriya15@gmail.com)**  
