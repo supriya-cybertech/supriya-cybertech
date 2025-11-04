@@ -1,6 +1,6 @@
 <!-- 👋 Supriya Kumari - GitHub Profile README -->
 
-<h1 align="center">Hey there, I'm Supriya 👋</h1>
+<h1 align="center">Hey there, I'm Supriya!👋</h1>
 
 <h3 align="center">A passionate learner exploring Cybersecurity, Machine Learning, and Generative AI 🤖🔐</h3>
 
