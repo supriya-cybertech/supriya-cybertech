@@ -42,8 +42,12 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=supriya-cybertech&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://ghchart.rshah.org/4ECCA3/supriya-cybertech" alt="GitHub Contributions Chart" />
 </p>
+
+
+
+
 
 
 ---
