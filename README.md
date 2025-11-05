@@ -41,13 +41,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriya-cybertech&layout=compact&theme=tokyonight" height="165" />
 </p>
 
+## 🔥 Daily Streaks & Contributions
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/4ECCA3/supriya-cybertech" alt="GitHub Contributions Chart" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=supriya-cybertech&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
-
-
-
-
 
 
 ---
