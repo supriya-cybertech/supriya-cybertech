@@ -42,8 +42,9 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=supriya-cybertech&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=supriya-cybertech&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
 
 ---
 
