@@ -1,4 +1,4 @@
-<!-- 👋 Supriya Kumari - GitHub Profile README -->
+<!-- 👋 Supriya - GitHub Profile README -->
 
 <h1 align="center">Hey there, I'm Supriya!👋</h1>
 
