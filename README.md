@@ -9,7 +9,7 @@
 ### 🌟 About Me
 
 - 👯 I’m open to collaboration on **Machine Learning & Cybersecurity Projects**  
-- 💬 Ask me about **System Design Concepts**, **Solution Architecture**, **AI-driven Applications**, or **Cybersecurity & Generative AI**  
+- 💬 Ask me about **System Design Concepts**, **Solution Architecture**, **AI-driven Applications**, or **Cyber security & Generative AI**  
 - 📫 Reach me at: **[i.am.supriya15@gmail.com](mailto:i.am.supriya15@gmail.com)**  
 - ⚡ **Fun Fact:** *In the architecture of systems, I find beauty in simplicity — for it’s clarity that gives strength, and elegance that sustains performance.*
 
