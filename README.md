@@ -26,7 +26,7 @@
   <!-- AI/ML Tools -->
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,seaborn"/>
   <!-- Cloud / DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,kafka,firebase,git"/>
+  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,firebase,git"/>
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle,mongodb,mssql"/>
   <!-- Others -->
