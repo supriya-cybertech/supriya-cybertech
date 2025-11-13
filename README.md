@@ -30,7 +30,7 @@
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle,mongodb,mssql"/>
   <!-- Others -->
-  <img src="https://skillicons.dev/icons?i=linux,arduino,blender,html,css,illustrator"/>
+  <img src="https://skillicons.dev/icons?i=linux,arduino,html,css,illustrator"/>
 </p>
 
 ---
