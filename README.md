@@ -22,7 +22,7 @@
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,javascript,typescript,php,kotlin"/>
   <!-- Web Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,angular,bootstrap,tailwind,flask,spring"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,angular,tailwind,flask,spring"/>
   <!-- AI/ML Tools -->
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,seaborn"/>
   <!-- Cloud / DevOps -->
