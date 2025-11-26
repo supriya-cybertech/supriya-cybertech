@@ -20,7 +20,7 @@
 
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,javascript,typescript,php,kotlin"/>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,javascript,typescript,php"/>
   <!-- Web Frameworks -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,angular,tailwind,flask,spring"/>
   <!-- AI/ML Tools -->
