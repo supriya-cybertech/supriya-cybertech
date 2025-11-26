@@ -19,7 +19,7 @@
 ### 🧠 Tech Stack & Tools
 
 <p align="center">
-  <!-- Programming Languages -->
+ <!---- Programming Languages ---->
   <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,javascript,typescript,php"/>
   <!-- Web Frameworks -->
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,angular,tailwind,flask,spring"/>
