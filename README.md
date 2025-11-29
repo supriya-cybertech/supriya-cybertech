@@ -2,9 +2,9 @@
 
 <!-- 👋 Supriya - GitHub Profile README -->
 
-<h1 align="center">Hey there, I'm Supriya!👋</h1>
+<h1 align="left">Hey there, I'm Supriya!👋</h1>
 
-<h3 align="center">A passionate learner exploring Cybersecurity, Machine Learning, and Generative AI Modals 🤖🔐</h3>
+<h3 align="left">A passionate learner exploring Cybersecurity, Machine Learning, and Generative AI Modals 🤖🔐</h3>
 
 ---
 
@@ -18,21 +18,27 @@
 
 ---
 
-### 🧠 Tech Stack & Tools
+# 🧠 Tech Stack & Tools:))
 
-<p align="center">
- <!---- Programming Languages ---->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,javascript,typescript,php"/>
-  <!-- Web Frameworks -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,angular,tailwind,flask,spring"/>
-  <!-- AI/ML Tools -->
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,seaborn"/>
-  <!-- Cloud / DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,firebase,git"/>
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,oracle,mongodb,mssql"/>
-  <!-- Others -->
-  <img src="https://skillicons.dev/icons?i=linux,arduino,html,css,illustrator"/>
+### Programming Languages:
+<p align="left">
+ 
+  # <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,javascript,typescript,php"/>
+ 
+ ### Web Frameworks:
+  # <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,angular,tailwind,flask,spring"/>
+  
+ ### AI/ML Tools:
+  # <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,seaborn"/>
+ 
+  ### Clouds and Angels:
+  # <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,firebase,git"/>
+  
+ ### Databases:
+  # <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/>
+  
+  ### Others:
+  # <img src="https://skillicons.dev/icons?i=linux,arduino,illustrator"/>
 </p>
 
 ---
