@@ -106,35 +106,6 @@ class Supriya:
 </details>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.am.supriya15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
   
   ### 💡 *Open to collaborations and always learning. Let's build something impactful together!*
   
@@ -157,11 +128,7 @@ class Supriya:
   <img src="https://github-readme-streak-stats.herokuapp.com?user=supriya-cybertech&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
-
-
-
 ![Supriya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=supriya-cybertech&bg_color=ffffff&color=ff047d&line=9e4c98&point=403d3d&area=true&hide_border=true)
-
 
 ---
 
