@@ -1,48 +1,147 @@
 ![Hacker](https://camo.githubusercontent.com/091cdcc3e35742e669112e5a783678e093d2665ea1a83090aad8180790e062b5/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578615739334d484232616a4a764f445a6b4e3263326144427a62576f314d6e4979636d74354d323573596a64354d326c356254686e59535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7854636e5357595a7661667968454143424f2f67697068792e676966)
 
-![](https://komarev.com/ghpvc/?username=supriya-cybertech&color=green)  
 
-<!-- 👋 Supriya - GitHub Profile README -->
+<div align="center">
 
-<h1 align="left">Hey there, I'm Supriya!👋</h1>
+# Hey there, I'm Supriya! 👋
 
-<h3 align="left">A passionate learner exploring Cybersecurity, Machine Learning, and Generative AI Modals 🤖🔐</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Machine+Learning+Explorer+%F0%9F%A4%96;Generative+AI+Innovator+%E2%9C%A8;Building+Secure+AI+Solutions" alt="Typing SVG" />
 
----
+### A passionate technologist at the intersection of **AI**, **ML**, and **Cybersecurity** 🚀
 
-### 🌟 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-- 👩‍💻 Passionate about building innovative solutions at the intersection of **Machine Learning** and **Cybersecurity**.  
-- 🤝 Open to collaborating on projects involving **AI-driven applications**, **system design**, and **secure architectures**.  
-- 💬 Love discussing **solution architecture**, **cyber defense strategies**, and the evolving landscape of **Generative AI**.  
-- 📫 Reach me at: **[i.am.supriya15@gmail.com](mailto:i.am.supriya15@gmail.com)**  
-- ⚡ **Fun Fact:** *I believe simplicity is the ultimate sophistication — in both code and system design, clarity creates lasting impact.*
+</div>
 
 ---
 
-# 🧠 Tech Stack & Tools:))
+## 🌟 About Me
 
-### Programming Languages:
-<p align="left">
- 
-  # <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,javascript,typescript,php"/>
- 
- ### Web Frameworks:
-  # <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,angular,tailwind,flask,spring"/>
-  
- ### AI/ML Tools:
-  # <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,seaborn"/>
- 
-  ### Clouds and Angels:
-  # <img src="https://skillicons.dev/icons?i=aws,azure,kubernetes,firebase,git"/>
-  
- ### Databases:
-  # <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb"/>
-  
-  ### Others:
-  # <img src="https://skillicons.dev/icons?i=linux,arduino,illustrator"/>
-</p>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+```python
+class Supriya:
+    def __init__(self):
+        self.role = "AI Security Architect"
+        self.focus = ["Adversarial ML", "Secure AI Systems", "Threat Detection"]
+        self.mission = "Building intelligent systems that are secure by design"
+        
+    def collaborate(self):
+        return "Let's build something impactful! 🚀"
+```
+
+- 🎯 Making AI systems both intelligent *and* resilient against threats
+- 📫 **[i.am.supriya15@gmail.com](https://discord.com/channels/@me)**
+- ⚡ *"Simplicity is the ultimate sophistication"*
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🌐 Web Frameworks</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🤖 AI/ML Tools</b></summary>
+<br>
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>☁️ Clouds & DevOps</b></summary>
+<br>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔐 Security & Other Tools</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical&hide_border=true" alt="GitHub Streak" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170"/>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.am.supriya15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  
+  ### 💡 *Open to collaborations and always learning. Let's build something impactful together!*
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=supriya-cybertech&color=blueviolet&style=for-the-badge)
+  
+</div>
+ 
 ---
 
 ### 📊 GitHub Insights
@@ -108,5 +207,7 @@ If you like my projects or find them helpful, consider starring ⭐ the repos or
 
 ---
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 <p align="center">💻 Crafted with passion by <b>Supriya </b> | © 2025</p>
