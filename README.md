@@ -31,7 +31,7 @@ class Supriya:
 ```
 
 - 🎯 Making AI systems both intelligent *and* resilient against threats
-- 📫 **[i.am.supriya15@gmail.com](https://discord.com/channels/@me)**
+- 📫 **[supriya.k15](https://discord.com/channels/@me)**
 - ⚡ *"Simplicity is the ultimate sophistication"*
 
 ---
