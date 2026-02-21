@@ -1,17 +1,13 @@
 <div align="center">
     
-# Hare Krishna | I’m Supriya 👋
+# Hare Krishna 🦚 | Supriya — Founder & Systems Architect
 
 *योगः कर्मसु कौशलम्*  
-Excellence in action
-
-Designing scalable, intelligent systems  
-with clarity, discipline, and long-term vision.
+Excellence in action.
 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Machine+Learning+Explorer+%F0%9F%A4%96;Generative+AI+Innovator+%E2%9C%A8;Building+Secure+AI+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Architecting+Intelligent+Systems;AI+%E2%80%A2+ML+%E2%80%A2+Cybersecurity;Scaling+Innovation+with+Precision;Where+Strategy+Meets+Execution" alt="Typing SVG" />
 
-### A passionate technologist at the intersection of **AI**, **ML**, and **Cybersecurity** 🚀
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
