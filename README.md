@@ -1,6 +1,13 @@
 <div align="center">
+    
+# Hare Krishna | I’m Supriya 👋
 
-# Hey there, I'm Supriya! 👋
+*योगः कर्मसु कौशलम्*  
+Excellence in action
+
+Designing scalable, intelligent systems  
+with clarity, discipline, and long-term vision.
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Machine+Learning+Explorer+%F0%9F%A4%96;Generative+AI+Innovator+%E2%9C%A8;Building+Secure+AI+Solutions" alt="Typing SVG" />
 
