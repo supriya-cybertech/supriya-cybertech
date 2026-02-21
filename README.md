@@ -107,7 +107,11 @@ class Supriya:
 
 ---
   
-  ### 💡 *Open to collaborations and always learning. Let's build something impactful together!*
+  ### 💡Let’s connect.
+
+Feel free to reach out to collaborate on impactful projects, exchange bold ideas in AI & systems architecture, or even share a great coffee recommendation.
+
+**Let’s build something meaningful** — **innovation is best brewed with intention.**
   
   ![Profile Views](https://komarev.com/ghpvc/?username=supriya-cybertech&color=blueviolet&style=for-the-badge)
   
