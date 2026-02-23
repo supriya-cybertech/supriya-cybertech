@@ -30,7 +30,7 @@ class Supriya:
         return "Let's build something impactful! 🚀"
 ```
 
-- 🎯 Making AI systems both intelligent *and* resilient against threats
+- 🎯 Making AI systems both intelligent *and* resilient against threats 
 - 📫 **[supriya.k15](https://discord.com/channels/@me)**
 - ⚡ *"Simplicity is the ultimate sophistication"*
 
