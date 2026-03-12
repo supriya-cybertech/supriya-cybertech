@@ -122,8 +122,8 @@ Feel free to reach out to collaborate on impactful projects, exchange bold ideas
 ### 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=supriya-cybertech&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriya-cybertech&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=supriya-cybertech&&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=supriya-cybertech&&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ## 🔥 Daily Streaks & Contributions
