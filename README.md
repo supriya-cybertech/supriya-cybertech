@@ -1,6 +1,6 @@
 <div align="center">
     
-# Hare Krishna 🦚 | Supriya — Founder & Systems Architect
+# Hare Krishna 🦚 | Supriya — Founder & Systems Architect 
 
 *योगः कर्मसु कौशलम्*  
 Excellence in action.
