@@ -4,7 +4,7 @@
 
 *योगः कर्मसु कौशलम्*  
 Excellence in action.
-
+ 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Architecting+Intelligent+Systems;AI+%E2%80%A2+ML+%E2%80%A2+Cybersecurity;Scaling+Innovation+with+Precision;Where+Strategy+Meets+Execution" alt="Typing SVG" />
 
